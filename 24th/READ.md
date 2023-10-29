@@ -1,9 +1,9 @@
-### Today learn about Connection of database mean how we can connect the database with Usin PHP
+### Today in this 24th lecture I learn about connection of frontend to the backend and here is the connection pic
 
-### Also learn about how we can insert data into the database using PHP
-
-
-![ui pic](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/29575277-b049-4de6-a2fe-5504274de0da)
+![2nd frontend](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/07039d4c-2425-4f29-8c73-62ed6834db1c)
 
 
-![database](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/f119788a-c104-4021-8b8c-fdf426640944)
+### Also learn about how to retreive data from the database and here is the data after retreiving from the database
+
+![2nd backend](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/81e1921a-158f-4439-9dd4-941a8ed0b5c1)
+
