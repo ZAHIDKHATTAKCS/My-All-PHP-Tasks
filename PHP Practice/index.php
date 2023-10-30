@@ -22,6 +22,14 @@
         h2{
             color: blue;
         }
+        a{
+            color:black;
+            text-decoration:none;
+            padding:2px;
+            background-color:white;
+            border:1px solid black;
+            border-radius:5px;
+        }
     </style>
 </head>
 
@@ -51,6 +59,7 @@
                 </div>
             </div><br><br>
             <button type="submit" name="submit">Submit</button><br><br>
+            <a href="retreive.php">Check data here</a><br><br>
         </form>
     </center>
 </body>
