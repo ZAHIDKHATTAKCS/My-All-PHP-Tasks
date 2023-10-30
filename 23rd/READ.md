@@ -1,7 +1,14 @@
-### Today learn about Connection of database mean how we can connect the database with Usin PHP
-### Also learn about how we can insert data into the database using PHP
+### Today in this 23rd lection I learn about how to connect the frontend of site to databse
 
-![ui pic](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/0831d310-eca5-4930-a2eb-e7f53c069175)
+## Frontend mean form which insert data to the database using PHP
+![frontend form](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/67ba49a6-4272-416a-ab1e-0a0918f5a837)
 
 
-![database](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/8efd984d-d254-4ff4-9779-b227e0860496)
+## Backend of the form mean database when we inter data to the database using frontend form 
+
+
+![insertion database pic](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/f5f64a3d-7aa4-43ad-9f1d-4bbb03f687c0)
+
+
+
+
