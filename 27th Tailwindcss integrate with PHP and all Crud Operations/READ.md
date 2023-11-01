@@ -1,9 +1,16 @@
-### Today learn about Connection of database mean how we can connect the database with Usin PHP
+### Today learn about how to integerate Tailwindcss with PHP
 
-### Also learn about how we can insert data into the database using PHP
+### Also I complete all Crud operations in PHP with the forntend with Tailwindcss
 
+### Forntend of form with Tailwindcss
 
-![ui pic](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/29575277-b049-4de6-a2fe-5504274de0da)
+![frontend](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/42f2bf81-978f-47c3-ab1a-da98b3a863d4)
 
+### showing database data on frontend using Tailwindcss
 
-![database](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/f119788a-c104-4021-8b8c-fdf426640944)
+![show in table](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/2e3a7903-e15e-4390-b79b-0cd8f3a1d3ce)
+
+### finally here is the database for the form and operations
+
+![database](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/b8589f82-7922-445e-954f-8b4d5f90ea26)
+
