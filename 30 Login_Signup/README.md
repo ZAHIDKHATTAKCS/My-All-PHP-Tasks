@@ -18,7 +18,7 @@
 
 ### figure 2 ![last 2](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/31a72ac3-82aa-4fc5-a10b-602b40d5e813)
 
-### 5 what if someone put the passwords wrongs means if he/she put the repeat password from the password here is the error show for...
+### 5 what if someone put the passwords wrongs means if he/she put the repeat password different from the password here is the error show for...
 
 ![last 4](https://github.com/ZAHIDKHATTAKCS/My-All-PHP-Tasks/assets/103638880/4ee000e2-904e-4645-b1a9-b23c097b3edf)
 
