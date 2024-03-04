@@ -21,7 +21,7 @@ Here is my Git Hub Profile [Muhammad Zahid](https://github.com/ZAHIDKHATTAKCS)
 
 ## Author
 
-- [@zahidkhattak](https://zahidkhattak.vercel.app/)
+- [@Muhammad Zahid](https://zahidkhattak.vercel.app/)
 
 
 ## Lessons Learned
