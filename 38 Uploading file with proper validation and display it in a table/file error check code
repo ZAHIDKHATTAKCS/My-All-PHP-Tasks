@@ -1,0 +1,30 @@
+if ($File_Error == 0) {
+
+                    $File_Folder = 'upload/'.$File_Name;
+
+                    move_uploaded_file($File_Path,$File_Folder);
+
+                    $insertquery = "INSERT INTO `registration`(`Name`, `Qualification`, `Email`, `Language`, `Pictures`) VALUES ('$Name','$Qualification','$Email','$Language','$File_Folder')";
+
+                    $query = mysqli_query($conn,$insertquery);
+
+                    if ($query) {
+                        ?>
+                        <script>
+                            alert('Data Inserted to the Database!');
+                        </script>
+                        <?php
+                    }else{
+                        ?>
+                        <script>
+                            alert('Data Insertion Failed!');
+                        </script>
+                        <?php
+                    }
+                }else{
+                    ?>
+                    <script>
+                        alert('There is an error in your file');
+                    </script>
+                    <?php
+                }
